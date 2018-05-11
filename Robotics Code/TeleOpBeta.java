@@ -1,5 +1,9 @@
 /* TeleOp vs. 2_12_2017
  */
+
+/* This code was designed to process driver inputs from controllers in order to move the robot accordingly. This is not autonomous
+as it requires driver input. */
+
 package org.firstinspires.ftc.teamcode;
 
 import static java.lang.Math.*;  // Standard Math - Note Static
